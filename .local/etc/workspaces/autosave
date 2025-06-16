@@ -1,0 +1,53 @@
+;; -*- mode: emacs-lisp; eval: (progn (pp-buffer) (indent-buffer)) -*-
+((def-persp "icn-onboarding"
+   ((def-buffer "todos_controller.rb" "/Users/dgrutman/git/icn-onboarding/app/controllers/api/v1/todos_controller.rb" ruby-mode))
+   (def-wconf
+     (((min-height . 4)
+       (min-width . 10)
+       (min-height-ignore . 3)
+       (min-width-ignore . 5)
+       (min-height-safe . 1)
+       (min-width-safe . 2)
+       (min-pixel-height . 56)
+       (min-pixel-width . 70)
+       (min-pixel-height-ignore . 42)
+       (min-pixel-width-ignore . 35)
+       (min-pixel-height-safe . 14)
+       (min-pixel-width-safe . 14))
+      leaf
+      (pixel-width . 1508)
+      (pixel-height . 898)
+      (total-width . 215)
+      (total-height . 64)
+      (normal-height . 1.0)
+      (normal-width . 1.0)
+      (parameters
+       (better-jumper-struct . #s(better-jumper-jump-list-struct
+                                  (0 10 .
+                                     [("/Users/dgrutman/git/icn-onboarding/app/controllers/api/v1/todos_controller.rb" 893 "jm7cu7")
+                                      ("/Users/dgrutman/git/icn-onboarding/app/controllers/api/v1/todos_controller.rb" 388 "4k85k4")
+                                      ("/Users/dgrutman/git/icn-onboarding/app/controllers/api/v1/todos_controller.rb" 401 "3folcz")
+                                      ("/Users/dgrutman/git/icn-onboarding/app/controllers/api/v1/todos_controller.rb" 269 "por11f")
+                                      ("/Users/dgrutman/git/icn-onboarding/app/controllers/api/v1/todos_controller.rb" 319 "78twm6")
+                                      ("/Users/dgrutman/git/icn-onboarding/app/controllers/api/v1/todos_controller.rb" 320 "q7t2zc")
+                                      ("/Users/dgrutman/git/icn-onboarding/app/controllers/api/v1/todos_controller.rb" 321 "pepvr8")
+                                      ("/Users/dgrutman/git/icn-onboarding/app/controllers/api/v1/todos_controller.rb" 322 "lt5rmx")
+                                      ("/Users/dgrutman/git/icn-onboarding/app/controllers/api/v1/todos_controller.rb" 323 "ykykxp")
+                                      ("/Users/dgrutman/git/icn-onboarding/app/controllers/api/v1/todos_controller.rb" 263 "xw9hli")
+                                      nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil nil])
+                                  -1)))
+      (buffer "todos_controller.rb"
+              (selected . t)
+              (hscroll . 0)
+              (fringes 8 8 t nil)
+              (margins nil)
+              (scroll-bars nil 0 t nil 0 t nil)
+              (vscroll . 0)
+              (dedicated)
+              (point . 1018)
+              (start . 1))
+      (prev-buffers
+       ("*doom*" 1 1544)
+       ("*scratch*" 1 1))))
+   (def-params nil)
+   nil nil nil))
